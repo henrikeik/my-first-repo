@@ -2,7 +2,7 @@
 {
     public class Person
     {
-        public strig Name { get; set; }
+        public strig Namxe { get; set; }
          
     }
 }
